@@ -3,7 +3,7 @@ LINK: https://medium.com/@wldnjs7188/monitoring-ram-memory-on-aws-ec2-windows-20
 LINK: https://www.youtube.com/watch?v=vAnIhIwE5hY
 
 #### WINDOWS
-<p>
+<pre>
 curl -O https://s3.amazonaws.com/amazoncloudwatch-agent/windows/amd64/latest/amazon-cloudwatch-agent.msi
 From CMD shell -
 msiexec /i amazon-cloudwatch-agent.msi
@@ -37,5 +37,5 @@ SELECT - Choose instances manually
 UNCHECK - Enable an S3 bucket.
 
 RUN
-</p>
+</pre>
 

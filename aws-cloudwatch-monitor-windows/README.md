@@ -39,4 +39,6 @@ UNCHECK - Enable an S3 bucket.
 
 RUN
 </pre>
+###### InstallCloudwatchAgent - with SSM:
+https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/download-CloudWatch-Agent-on-EC2-Instance-SSM-first.html
 
